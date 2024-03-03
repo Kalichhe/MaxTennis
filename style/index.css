@@ -1,0 +1,12 @@
+body ul li{
+    display: inline-block;
+    list-style: none;
+}
+
+body ul li a img{
+    width: 200px;
+}
+
+body header img{
+    width: 200px;
+}

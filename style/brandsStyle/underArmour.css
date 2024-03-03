@@ -1,0 +1,8 @@
+body ul li {
+    display: inline-block;
+    list-style: none;
+}
+
+body ul li img{
+    width: 400px;
+}
